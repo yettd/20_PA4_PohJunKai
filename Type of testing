@@ -1,0 +1,12 @@
+Type of testing
+1 . Unit testing
+2 . integration testing
+3 . system testing
+4 . Acceptance testing
+Unit testing is the execution of a complete class, routine or small program that has been written by a single programmer or team of programmers, which is tested in isolation from the more complete system.
+Unit testing is done by developer
+whitebox testing
+
+Integration testing is the combined execution of two or more classes
+integration is done by programmer
+fall under both white box and black box testing
